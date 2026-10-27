@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Mikel%20Garcia&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Web%20%C2%B7%20IA%20%26%20Big%20Data&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Mikel Garcia" />
+<img src="assets/banner.svg" width="100%" alt="Mikel Garcia" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+Superior+en+DAW;Especializaci%C3%B3n+en+IA+y+Big+Data;Java+%7C+Python+%7C+TypeScript+%7C+JavaScript;Construyendo+proyectos+web+end-to-end" alt="Técnico Superior en DAW, especialización en IA y Big Data" />
 
@@ -101,6 +101,6 @@ Estoy abierto a oportunidades junior en desarrollo web o full-stack. Puedes escr
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer&animation=fadeIn" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>

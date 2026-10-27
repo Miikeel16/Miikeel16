@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Mikel%20Garcia&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Web%20%C2%B7%20DAW&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Mikel Garcia" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Mikel%20Garcia&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Web%20%C2%B7%20IA%20%26%20Big%20Data&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Mikel Garcia" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C9A7&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+Superior+en+DAW;Especializaci%C3%B3n+en+IA+y+Big+Data;Java+%7C+Python+%7C+TypeScript+%7C+JavaScript;Construyendo+proyectos+web+end-to-end" alt="Técnico Superior en DAW, especialización en IA y Big Data" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-**Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**, con formación en la **especialización de Inteligencia Artificial y Big Data**. Me gusta construir proyectos completos, de la lógica a la interfaz: aplicaciones Angular, APIs con Node.js, plugins de Moodle y análisis de datos con Python.
+**Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**, con formación en la **especialización de Inteligencia Artificial y Big Data**. Me gusta construir proyectos completos, de la lógica a la interfaz: aplicaciones web, APIs con Node.js, plugins de Moodle y análisis de datos con Python.
 
 Me interesa el **desarrollo web**, el **diseño de APIs** y la **automatización**. Busco mi primera oportunidad profesional como desarrollador junior.
 
@@ -18,7 +18,7 @@ Me interesa el **desarrollo web**, el **diseño de APIs** y la **automatización
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,php,mysql,angular,tailwind,docker,git,github,grafana&theme=dark&perline=7" alt="Java, Python, JavaScript, TypeScript, HTML, CSS, PHP, MySQL, Angular, Tailwind, Docker, Git, GitHub, Grafana" />
+<img src="https://skillicons.dev/icons?i=java,py,js,ts,html,css,php,mysql,docker,git,github,grafana&theme=dark&perline=7" alt="Java, Python, JavaScript, TypeScript, HTML, CSS, PHP, MySQL, Docker, Git, GitHub, Grafana" />
 
 <br/>
 
@@ -32,11 +32,6 @@ Me interesa el **desarrollo web**, el **diseño de APIs** y la **automatización
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Datos y monitorización**
 
@@ -55,14 +50,14 @@ Me interesa el **desarrollo web**, el **diseño de APIs** y la **automatización
 
 ## Aprendiendo ahora
 
-- **Angular y TypeScript:** componentes, servicios y consumo de APIs para interfaces cada vez más completas.
+- **Desarrollo web:** afianzando JavaScript, TypeScript y el consumo de APIs.
 - **Python y datos:** análisis exploratorio, visualización y automatización de tareas.
 - **IA aplicada:** integración de agentes y modelos en aplicaciones web y entornos de formación.
 
 ## Proyectos destacados
 
 ### CHATBOT — interfaz web para un chatbot
-Frontend en Angular que consume la API de un chatbot, desarrollado durante una formación en LKS Next.
+Interfaz web que consume la API de un chatbot, desarrollada durante una formación en LKS Next.
 
 `Angular` `TypeScript`
 

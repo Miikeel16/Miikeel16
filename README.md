@@ -16,7 +16,7 @@
 
 > **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**, con formación en la **especialización de Inteligencia Artificial y Big Data**. Me gusta construir proyectos completos, de la lógica a la interfaz: aplicaciones web, APIs con Node.js, plugins de Moodle y análisis de datos con Python.
 >
-> Me interesa el **desarrollo web**, el **diseño de APIs** y la **automatización**. Busco mi primera oportunidad profesional como desarrollador junior.
+> Me interesa el **desarrollo web** y la **automatización**. Busco mi primera oportunidad profesional como desarrollador junior.
 
 <h2 align="center">Stack</h2>
 

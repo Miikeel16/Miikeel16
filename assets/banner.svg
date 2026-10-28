@@ -1,18 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Mikel Garcia - Desarrollador Web, IA y Big Data">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Mikel Garcia - Desarrollador Web, IA y Big Data">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0F2027"/>
-      <stop offset="50%" stop-color="#2C5364"/>
-      <stop offset="100%" stop-color="#00C9A7"/>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
     </linearGradient>
-    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
-    </linearGradient>
+    <radialGradient id="glowA" cx="0.15" cy="0.1" r="0.65">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.9" cy="0.95" r="0.6">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1E1B4B" stroke-width="1"/>
+    </pattern>
   </defs>
-  <rect width="1200" height="220" fill="url(#bg)"/>
-  <path d="M0 150 C150 190 300 110 450 145 C600 180 750 115 900 145 C1050 175 1150 145 1200 155 L1200 220 L0 220 Z" fill="url(#wave)"/>
-  <path d="M0 182 C180 142 340 215 520 178 C700 141 880 205 1050 172 C1120 158 1170 168 1200 175 L1200 220 L0 220 Z" fill="#000000" opacity="0.12"/>
-  <text x="600" y="97" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="48" font-weight="700" fill="#ffffff">Mikel Garcia</text>
-  <text x="600" y="141" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="500" fill="#ffffff" fill-opacity="0.92">Desarrollador Web &#183; IA &amp; Big Data</text>
+  <rect width="1200" height="240" fill="#080B1A"/>
+  <rect width="1200" height="240" fill="url(#grid)"/>
+  <rect width="1200" height="240" fill="url(#glowA)"/>
+  <rect width="1200" height="240" fill="url(#glowB)"/>
+  <rect x="60" y="36" width="1080" height="168" rx="14" fill="#0D1226" fill-opacity="0.92" stroke="url(#stroke)" stroke-width="1.5"/>
+  <circle cx="92" cy="62" r="6" fill="#F87171"/>
+  <circle cx="114" cy="62" r="6" fill="#FBBF24"/>
+  <circle cx="136" cy="62" r="6" fill="#34D399"/>
+  <text x="92" y="104" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" fill="#64748B">mikel@github:~$ whoami</text>
+  <text x="92" y="148" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="700" fill="#EDE9FE">Mikel Garcia</text>
+  <text x="92" y="181" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="500" fill="#A78BFA">Desarrollador Web &#183; IA &amp; Big Data</text>
+  <text x="1042" y="152" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',ui-monospace,monospace" font-size="30" font-weight="700" fill="#7C3AED" fill-opacity="0.7">&lt;/&gt;</text>
+  <rect x="1030" y="174" width="24" height="3" rx="1.5" fill="#22D3EE"/>
 </svg>
